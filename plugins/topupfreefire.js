@@ -1,5 +1,5 @@
 const topupfreefire = (prefix) => { 
-	return `*HALLO KAK👋*
+	return `*HALLO KAK DENGAN DANZBOT DISINI*
 *PILIH DIBAWAH YA!!!*
 *LIST DM FF*
 *NO ILEGAL 100%*
