@@ -4,10 +4,10 @@
   "AutoRecording": true,
   "AutoReply": true,
   "NamaSession": "sessions",
-  "NamaOwner": "Ramdani Official",
-  "NamaBot": "Ramdani Botz",
-  "NomorOwner": "6289512545999",
-  "NomorOwner2": "6289512545999@s.whatsapp.net",
-  "NomorBot": "6288296339947",
-  "Limit": 20
+  "NamaOwner": "DanzBot Official",
+  "NamaBot": "DanzBot",
+  "NomorOwner": "6288270863279",
+  "NomorOwner2": "6288270863279@s.whatsapp.net",
+  "NomorBot": "6282174849046",
+  "Limit": "100", 
 }
